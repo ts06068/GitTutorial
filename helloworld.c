@@ -9,6 +9,7 @@ int main(void)
     int b = 2;
     int c = 3;
     int d = c+b+a; //HOTFIX: change order
+    d += 0; //hotfix2
 
     //Multiplication
     int x = 3;
