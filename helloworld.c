@@ -10,4 +10,9 @@ int main(void)
     int c = 3;
     int d = a + b + c;
     return 0;
+
+    //Why dont we multiplicate
+    int x = 3;
+    int y = 4;
+    int z = x * y;
 }
