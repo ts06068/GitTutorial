@@ -9,5 +9,10 @@ int main(void)
     int b = 2;
     int c = 3;
     int d = a + b + c;
+
+    //Multiplication
+    int x = 3;
+    int y = 4;
+    int z = x * y;
     return 0;
 }
