@@ -20,4 +20,9 @@ int main(void)
     int x = 3;
     int y = 4;
     int z = x * y;
+
+    //Division is cool.
+    int xx = 15;
+    int yy = 3;
+    int zz = xx / zz;
 }
