@@ -4,9 +4,10 @@
 int main(void)
 {
     
-    //Add two numbers
+    //Why don't add 3 numbers?
     int a = 1;
     int b = 2;
-    int c = a + b;
+    int c = 3;
+    int d = a + b + c;
     return 0;
 }
